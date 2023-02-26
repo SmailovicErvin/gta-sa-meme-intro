@@ -1,5 +1,49 @@
 # GTA San Andreas Intro
 
+## "The ingredients" for my (incomplete) intro animation, what I tried to accomplish was to make a GTA intro but with memes.
+
+## intro that its based on is the Intro animation of GTA San Andreas. I also ripped the audio from same video of Youtube, I slightly edited the audio with Audacity for the animation sequence. (see link below)
+https://www.youtube.com/watch?v=TTB6eEHCAko&t=44s
+
+## I tried to add this code but with my implementation but with no sucess.(see link below)
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_audio_get
+
+## I also implemented my version of this code to display the text of the "makers/authors" of the intro
+https://www.freecodecamp.org/news/javascript-settimeout-how-to-set-a-timer-in-javascript-or-sleep-for-n-seconds/ 
+
+## For the svgs to fade I used this code from Stackoverflow
+https://stackoverflow.com/questions/23244338/pure-javascript-fade-in-function
+
+## For the fadeout code I also used this code from Stackoverflow
+https://stackoverflow.com/questions/29017379/how-to-make-fadeout-effect-with-pure-javascript
+
+## These are the meme videos that I tried to animate on my code
+https://www.youtube.com/watch?v=qBc6y4XG28s&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5
+
+https://www.youtube.com/watch?v=v79XKftN1Wo&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=22
+
+https://www.youtube.com/watch?v=sAXZbfLzJUg&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=37
+
+https://www.youtube.com/watch?v=DFELzJbp_ts&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=32
+
+https://www.youtube.com/watch?v=c46_iL2QqOE&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=39
+
+https://www.youtube.com/watch?v=DVOyxYSEU-o&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=47
+
+https://www.youtube.com/watch?v=176WobDw3YA&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=96
+
+https://www.youtube.com/watch?v=AJ0E87EjU0A&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=11
+
+https://www.youtube.com/watch?v=2H7NZ0GNIIE&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=6
+
+https://www.youtube.com/watch?v=hlLzgUn5tPI&list=PLqfCkDIQ_BpIIu4NibNDhOlZK6o2dQ5M5&index=52
+
+https://www.youtube.com/watch?v=mqw446NS7W8
+
+https://www.youtube.com/watch?v=lCy04DTYTmA
+
+
+
 
 
 ## Getting started
